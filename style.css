@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+body{
+    background-color: rgb(167, 165, 165);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+#fundo-frase{
+    background-color: rgb(22, 154, 206);
+    color: white;
+    font:30px;
+    margin-top: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
